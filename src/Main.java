@@ -136,7 +136,7 @@ private static void task3() {
         System.out.println();
         System.out.println("Разница между годовым доходом Маши "+ Math.abs(differenceMasha)+ " руб");
         System.out.println("Разница между годовым доходом Дениса "+ Math.abs(differenceDenis)+ " руб");
-        System.out.println("Разница между годовым доходом Кристины "+ Math.abs(differenceKristina)+ " руб");
+        System.out.println("Разница между годовым доходом Кристины "+ Math.abs(differenceKristina)+ "  руб");
 
 
 
